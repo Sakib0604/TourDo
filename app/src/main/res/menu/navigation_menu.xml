@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bangladeshtour"
+        android:title="বাংলাদেশ ভ্রমণ"
+        android:icon="@drawable/bd"/>
+    <item android:id="@+id/touristplace"
+        android:title="দর্শনীয় স্থান"
+        android:icon="@drawable/place"/>
+    <item android:id="@+id/tourplan"
+        android:title="ভ্রমণ পরিকল্পনা"
+        android:icon="@drawable/plan"/>
+    <item android:id="@+id/travelblog"
+        android:title="ভ্রমণ ব্লগ"
+        android:icon="@drawable/blog"/>
+    <item android:id="@+id/information"
+        android:title="খুঁটিনাটি তথ্য"
+        android:icon="@drawable/info"/>
+    <item android:id="@+id/weather"
+        android:title="আবহাওয়া"
+        android:icon="@drawable/info"/>
+<!--    <item android:id="@+id/launch"
+        android:title="লঞ্ঘাট"
+        android:icon="@drawable/launch"/>
+    <item android:id="@+id/bus"
+        android:title="বাস স্ট্যান্ড"
+        android:icon="@drawable/bus"/>
+    <item android:id="@+id/train"
+        android:title="রেল ষ্টেশন"
+        android:icon="@drawable/train"/>
+    <item android:id="@+id/plane"
+        android:title="বিমান বন্দর"
+        android:icon="@drawable/plane"/>-->
+
+
+</menu>

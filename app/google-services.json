@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918796828489",
+    "firebase_url": "https://tourdo.firebaseio.com",
+    "project_id": "tourdo",
+    "storage_bucket": "tourdo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918796828489:android:91e70275ac737182fce498",
+        "android_client_info": {
+          "package_name": "com.studio71.tourdo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918796828489-khl8l9iso0sgh9vkgul7ipdi5o4dsrfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studio71.tourdo",
+            "certificate_hash": "baa8b70a8955b4878d5c5280653cc241ac95edf3"
+          }
+        },
+        {
+          "client_id": "918796828489-ti4gpkdo08imat4vc6k9ulmqcd1iojfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC77Z_K-Dq1hNdY3bKgIYxCUMCYI9bAqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918796828489-ti4gpkdo08imat4vc6k9ulmqcd1iojfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
